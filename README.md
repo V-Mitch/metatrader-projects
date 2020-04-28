@@ -1,4 +1,4 @@
-# Old Projects from 2014 - 2016 
+# Old Projects from 2014 onwards
 written in mql4 for mt4
 - ADR: Display price daily ranges and difference between the open and close of a given timeframe.
 
